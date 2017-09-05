@@ -1,3 +1,4 @@
+baseurl = "donaldgifford.com"
 theme = "cocoa-eh-hugo-theme"
 builddrafts = true
 canonifyurls = true
@@ -18,8 +19,8 @@ dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Donald Gifford"
 copyright = "Copyright © 2017 Donald Gifford"
-logofile = "img/logo.png"
-faviconfile = "img/logo.png"
+#logofile = "img/logo.png"
+#faviconfile = "img/logo.png"
 highlightjs = true
 progressively = true
 align_left = false
