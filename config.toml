@@ -1,3 +1,4 @@
 baseurl = "http://donaldgifford.com/"
 title = "Donald Gifford"
 languageCode = "en-us"
+theme = "cocoa-eh"
