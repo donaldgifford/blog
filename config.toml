@@ -1,5 +1,5 @@
 baseurl = "http://donaldgifford.com/"
-theme = "cocoa-eh-hugo-theme"
+theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
 contentdir = "content"
