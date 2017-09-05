@@ -1,5 +1,5 @@
 baseURL = "http://www.donaldgifford.com"
-title = "Minimo"
+title = "donaldgifford"
 copyright = ""
 
 theme = "minimo"
@@ -11,9 +11,9 @@ Paginate = 5
 preserveTaxonomyNames = true
 
 [params]
-  description = "Minimalist theme for Hugo"
+  description = "blog"
   dateFormat = "2006, Jan 2"
-  copyrightOwner = "MunifTanjim"
+  copyrightOwner = "donaldgifford"
   copyrightStartYear = "2017"
   favicon = "favicon.ico"
   hideEntryNavigation = false
@@ -39,25 +39,24 @@ preserveTaxonomyNames = true
   facebook = ""
 
 [author]
-  name = "Minimo"
+  name = "donaldgifford"
 
 [author.social]
-  codepen = "MunifTanjim"
-  email = "contact@example.com"
-  facebook = "MunifTanjim"
-  github = "MunifTanjim/minimo"
-  instagram = "instagram"
-  twitter = "MunifTanjim"
-  linkedin = "muniftanjim"
+  email = "donald@donaldgifford.com"
+  facebook = "donaldgifford"
+  github = "donaldgifford"
+  instagram = "donaldgifford"
+  twitter = "donaldgifford"
+  linkedin = "donaldgifford"
 
 [permalinks]
   page = "/:slug/"
 
-[[menu.main]]
-  name = "Repo"
-  weight = -70
-  identifier = "repository"
-  url = "https://github.com/MunifTanjim/minimo"
+#[[menu.main]]
+#  name = "Repo"
+#  weight = -70
+#  identifier = "repository"
+#  url = "https://github.com/MunifTanjim/minimo"
 
 # Language Configuration
 defaultContentLanguage = "en"
