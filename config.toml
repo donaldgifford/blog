@@ -1,4 +1,3 @@
-baseurl = "http://donaldgifford.com/"
 theme = "cocoa-eh-hugo-theme"
 builddrafts = true
 canonifyurls = true
