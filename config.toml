@@ -1,4 +1,33 @@
 baseurl = "http://donaldgifford.com/"
+theme = "cocoa-eh-hugo-theme"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Donald Gifford"
 title = "Donald Gifford"
-languageCode = "en-us"
-theme= "cocoa-eh-hugo-theme"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Donald Gifford"
+copyright = "Copyright © 2017 Donald Gifford"
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
+highlightjs = true
+progressively = true
+align_left = false
+lang = "en"
+github = "donaldgifford"
+email = "donald@donaldgifford.com"
+linkedin = "donaldgifford"
+twitter = "donaldgifford"
+social_banner = "img/banner.png"
+posts_navigation = true
