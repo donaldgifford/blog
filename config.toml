@@ -1,6 +1,6 @@
 baseURL = "http://www.donaldgifford.com"
 title = "donaldgifford"
-copyright = ""
+copyright = "donaldgifford 2017"
 
 theme = "minimo"
 
@@ -43,11 +43,10 @@ preserveTaxonomyNames = true
 
 [author.social]
   email = "donald@donaldgifford.com"
-  facebook = "donaldgifford"
   github = "donaldgifford"
   instagram = "donaldgifford"
   twitter = "donaldgifford"
-  linkedin = "donaldgifford"
+  linkedin = "donaldgifford1"
 
 [permalinks]
   page = "/:slug/"
